@@ -9,7 +9,7 @@
 - [快速编辑hosts文件](./快速编辑hosts文件.md)
 - [记事本背景色修改](./记事本背景色修改.md)
 
-【推荐】[Dism++](https://www.chuyu.me/zh-Hans/) - [GitHub](https://github.com/Chuyu-Team/Dism-Multi-language/) 开源、免费的系统优化、清理、更新管理、驱动管理、Appx应用管理、系统备份还原等众多功能；额外说明：魔改版 更强大
+【推荐】[Dism++](https://www.chuyu.me/zh-Hans/) - [GitHub](https://github.com/Chuyu-Team/Dism-Multi-language/) 开源、免费的系统优化、清理、更新管理、驱动管理、Appx应用管理、系统备份还原等众多功能；额外说明：[魔改版](https://github.com/lhj1618GitHub/win11-set/releases/) 更强大
 
 Windows11轻松设置
 
